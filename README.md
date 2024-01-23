@@ -1,4 +1,4 @@
-- 👋 Hi fellow developers, I’m @AurumCruiser;... email(aurumcruiser@gmail.com)
+@AurumCruiser;... email(aurumcruiser@gmail.com)
 
 
 <!---
